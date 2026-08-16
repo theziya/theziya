@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ziya Fazal B</h1>
-<h3 align="center">Product Engineer • Frappe & ERPNext • Python & REST APIs</h3>
+<h3 align="center">Product Engineer • Frugal Scientific Pvt Ltd • Python & REST APIs</h3>
 
 <p align="center">
   Building scalable enterprise applications, workflow automation systems, and AI-powered experiences.
