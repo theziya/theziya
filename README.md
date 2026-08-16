@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ziya Fazal B</h1>
-<h3 align="center">Product Engineer • Frugal Scientific Pvt Ltd • Python & REST APIs</h3>
+<h3 align="center">Product Engineer @ <a href="https://in.linkedin.com/company/frugalscientific">Frugal Scientific Pvt Ltd</a> • Python & REST APIs</h3>
 
 <p align="center">
   Building scalable enterprise applications, workflow automation systems, and AI-powered experiences.
@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Product+Engineer+%40+Frappe+%2F+ERPNext;Python+%7C+REST+APIs+%7C+Workflow+Automation;Building+scalable+enterprise+systems;Always+shipping+%E2%80%A2+Always+learning" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Product+Engineer+%40+Frugal+Scientific+Pvt+Ltd;Python+%7C+REST+APIs+%7C+Workflow+Automation;Building+scalable+enterprise+systems;Always+shipping+%E2%80%A2+Always+learning" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -23,7 +23,7 @@
 
 ### 🚀 About Me
 
-- 🔭 I'm currently building **enterprise-grade applications** with Frappe & ERPNext
+- 🔭 I'm currently building **enterprise-grade applications** at **[Frugal Scientific Pvt Ltd](https://in.linkedin.com/company/frugalscientific)** with Frappe & ERPNext
 - 🛠️ I specialize in **backend systems, REST APIs, and workflow automation**
 - 🎯 Focused on **full stack development** and **platform engineering**
 - 💬 Ask me about **Frappe, ERPNext, Python, or system design**
